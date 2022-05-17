@@ -1,0 +1,10 @@
+{
+	"name": "libleb128",
+	"targetPath": "bin",
+	"authors": [
+		"Luís Ferreira"
+	],
+	"copyright": "Copyright © 2022, Luís Ferreira",
+	"description": "A simple library to encode and decode LEB128 efficiently",
+	"license": "MIT"
+}
